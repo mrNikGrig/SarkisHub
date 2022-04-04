@@ -1,0 +1,3 @@
+﻿  for Sarkis.cpp
+C:\Users\lgrld\source\repos\for Sarkis\for Sarkis\for Sarkis.cpp(20,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  for Sarkis.vcxproj -> C:\Users\lgrld\source\repos\for Sarkis\x64\Debug\for Sarkis.exe
